@@ -103,7 +103,7 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot (370).png>)
+![alt text](<Screenshot (373).png>)
 
 ![alt text](<Screenshot (374).png>)
 
